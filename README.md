@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/mufaz123)! (Keep all support q
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufaz706/tgbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufaz706/Mallu_Hero2.0)
 
 ## Starting the bot.
 
